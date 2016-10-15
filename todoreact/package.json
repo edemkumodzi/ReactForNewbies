@@ -6,8 +6,12 @@
     "react-scripts": "0.6.1"
   },
   "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.6.3",
     "react": "^15.3.2",
-    "react-dom": "^15.3.2"
+    "react-bootstrap": "^0.30.5",
+    "react-dom": "^15.3.2",
+    "react-fontawesome": "^1.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
