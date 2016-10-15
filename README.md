@@ -6,8 +6,9 @@ The code for each part of the tutorial series is organized in branches. To follo
 
 1. Clone this repo: `git clone https://github.com/edemkumodzi/ReactForNewbies.git`
 2. Checkout the branch corresponding to the tutorial part you are reading. For e.g. for Part 1, you would the corresponding branch is part1. So checkout `git checkout part1`
-3. Run `npm start` to spin up the development server
-4. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+3. CD into the todoreact directory: `cd todoreact`
+4. Run `npm start` to spin up the development server
+5. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 #### Series Posts
 
