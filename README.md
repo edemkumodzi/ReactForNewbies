@@ -13,3 +13,4 @@ The code for each part of the tutorial series is organized in branches. To follo
 #### Series Posts
 
 * [Part 1](https://edemkumodzi.com/reactfornewbies-building-a-todo-app-with-create-react-app-part-1-5aae4bd637ee#.qm0orijht)
+* [Part 2](https://edemkumodzi.com/reactfornewbies-building-a-todo-app-with-create-react-app-part-2-f846e2d8b820#.sp6q3ph7n)
